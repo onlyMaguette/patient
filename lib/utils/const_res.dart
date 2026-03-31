@@ -1,6 +1,6 @@
 class ConstRes {
   ///------------------------ Backend urls and key ------------------------///
-  static const String base = '---------- Base URL ----------';
+  static const String base = 'http://192.168.1.34/doctorio/';
   static const String itemBaseURL = '${base}public/storage/';
   static const String privacyPolicy = '${base}privacypolicy';
   static const String termsOfUse = '${base}termsOfUse';
